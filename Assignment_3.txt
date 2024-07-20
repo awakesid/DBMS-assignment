@@ -1,4 +1,4 @@
- sitto  sitto  ~  sudo mysql
+sitto  sitto  ~  sudo mysql
 Welcome to the MySQL monitor.  Commands end with ; or \g.
 Your MySQL connection id is 17
 Server version: 8.0.37-0ubuntu0.22.04.3 (Ubuntu)
